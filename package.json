@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nbsp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Disallow the use of &nbsp.",
   "keywords": [
     "eslint",
@@ -13,7 +13,7 @@
     "test": "mocha tests --recursive"
   },
   "dependencies": {
-    "requireindex": "~1.1.0"
+    "requireindex": "~1.2.0"
   },
   "devDependencies": {
     "eslint": "^4.18.2",
